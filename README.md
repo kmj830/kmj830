@@ -63,11 +63,11 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kmj830&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kmj830&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmj830&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 <p align="left">
-  <img height="145" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kmj830&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmj830&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kmj830&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 | 채널 | 바로가기 / 연락처 | 설명 |
 | :--- | :--- | :--- |
-| 🌐 **웹 포트폴리오** | [kmj830.github.io/portfolio](https://kmj830.github.io/portfolio/) | 상세 아키텍처 다이어그램 및 트러블슈팅 인터랙티브 웹 |
+| 🌐 **웹 포트폴리오** | [kmj830.github.io/portfolio](https://kmj830.github.io/portfolio/) | 상세 아키텍처 다이어그램 및 트러블슈팅 인터랙티브 웹 (클릭 시 이동) |
 | ✉️ **이메일** | [alswnd0830@naver.com](mailto:alswnd0830@naver.com) | 채용 제안 및 협업 문의 (클릭 시 메일 작성창 열림) |
 | 💬 **디스코드** | `kmj830` *(더블클릭 복사)* | Discord 친구 추가 및 빠른 커피챗 |
 
