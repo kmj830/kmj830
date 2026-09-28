@@ -7,6 +7,12 @@
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-kmj830-5865F2?style=flat-square&logo=discord&logoColor=white" alt="디스코드 ID" /></a>
 </p>
 
+<p align="center">
+  <a href="https://kmj830.github.io/portfolio/" target="_blank">
+    <img src="assets/portfolio-browser-mockup.png" alt="MinJung Kim Web Portfolio Live Showcase" width="100%" />
+  </a>
+</p>
+
 > **"정확한 데이터 처리와 안정적인 API 제공을 개발의 가장 중요한 가치로 삼습니다."**  
 > 국립금오공과대학교 컴퓨터공학전공 학부생으로서, Java와 Spring 생태계, 그리고 관계형 데이터베이스(PostgreSQL)를 중심으로 실무에 즉시 투입 가능한 백엔드를 만듭니다.
 
@@ -54,21 +60,77 @@
 > **도서관 현장 실무 직접 도입** • 스마트폰 카메라 바코드 스캔 도서관 장서 점검 솔루션
 - **Stack**: `Java`, `Spring Boot`, `Spring Data JPA`, `Supabase`, `In-Memory Cache`
 
+<table>
+  <tr>
+    <th width="50%" align="center">📱 모바일 바코드 스캐너 UI</th>
+    <th width="50%" align="center">📑 REST API & Supabase 연동 명세</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/projects/findbook-ui.png" alt="FindBook UI" width="100%"/></td>
+    <td align="center"><img src="assets/projects/findbook-swagger.png" alt="FindBook Swagger" width="100%"/></td>
+  </tr>
+</table>
+
+<br/>
+
 #### ✈️ [NOMAD (노마드)](https://github.com/kmj830/nomad)
 > **중앙해커톤 출품작** • 스마트 공항 면세점 체크인 및 항공 여정 연동 트래블 플랫폼
 - **Stack**: `Spring Boot`, `Spring Security`, `SSE`, `Vision OCR`, `Docker`
+
+<table>
+  <tr>
+    <th width="50%" align="center">🖥️ 인천공항 매장 직원 태블릿 UI</th>
+    <th width="50%" align="center">📑 SSE & Vision OCR REST API 명세</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/projects/nomad-staff-ui.png" alt="NOMAD Staff UI" width="100%"/></td>
+    <td align="center"><img src="assets/projects/nomad-swagger.png" alt="NOMAD Swagger" width="100%"/></td>
+  </tr>
+</table>
+
+<br/>
 
 #### 🐕 [DogMate (멍메이트)](https://github.com/kmj830/IoT)
 > **IoT 기초설계 (진행 완료)** • 반려동물 분리불안 완화 및 이상행동 원격 케어 IoT 솔루션
 - **Stack**: `Raspberry Pi`, `Python Flask`, `YAMNet`, `Cloud Run`, `SwiftUI`
 
+<table>
+  <tr>
+    <th width="35%" align="center">📱 iOS SwiftUI 앱 모니터링</th>
+    <th width="65%" align="center">📑 IoT Cloud REST API 명세</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/projects/dogmate-ui.png" alt="DogMate UI" width="100%"/></td>
+    <td align="center"><img src="assets/projects/dogmate-swagger.png" alt="DogMate Swagger" width="100%"/></td>
+  </tr>
+</table>
+
+<br/>
+
 #### 🚬 [Smoking Area (스모킹 에리어)](https://github.com/kmj830/smoking-area-backend)
 > **해커톤 출품작** • 위치 기반 공공데이터 흡연구역 지도 및 시민 제보 플랫폼
 - **Stack**: `Spring Boot`, `Kakao OAuth2`, `Geocoding`, `Docker`, `Render`
 
+<table>
+  <tr>
+    <th width="35%" align="center">📍 위치 기반 모바일 지도 UI</th>
+    <th width="65%" align="center">📑 반경 검색 & 제보 검수 REST API</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/projects/smoking-area-ui.png" alt="Smoking Area UI" width="100%"/></td>
+    <td align="center"><img src="assets/projects/smoking-area-swagger.png" alt="Smoking Area Swagger" width="100%"/></td>
+  </tr>
+</table>
+
+<br/>
+
 #### 🛡️ [WorkGuard (워크가드)](https://github.com/kmj830/workguard-api)
 > **개인 프로젝트 (진행 중)** • Spring AI & Google Gemini 기반 산업 안전 관리 어시스턴트 API
 - **Stack**: `Java`, `Spring Boot`, `Spring AI`, `Google Gemini`, `Swagger`
+
+<p align="center">
+  <img src="assets/projects/workguard-swagger.png" alt="WorkGuard Spring AI & Gemini Swagger API" width="100%"/>
+</p>
 
 ---
 
